@@ -1,0 +1,50 @@
+Q1. What are the different data types present in javascript?
+
+Ans. javaScript has 8 Datatypes 
+1. String
+2. Boolean
+3. Bigint
+4. Undefined
+5. Number
+6. Null
+7. Symbol
+8. Object
+
+Q2. What are the JavaScript Engines?
+
+Ans. A JavaScript engine is a computer program that executes JavaScript code and converts it into computer understandable language.
+
+Some of JavaScript Engines:
+
+Google Chrome - V8
+Edge(Internet Exploral) - Chakra
+Mozila Firefox - Spider Monkey
+
+
+Q3. Explain ECMA in JS.
+
+Ans. ECMA stands for European Computer Manufacturers Association. It is a nonprofit standards organization for information and communication systems. ECMAScript is a standard for a scripting language that specifies the core features that a scripting language should provide and how those features should be implemented. ECMAScript is also known as JavaScript and is used to create interactive web pages and user interfaces.
+
+Q4.  Why We use JavaScript?
+
+Ans. JavaScript is a popular programming language used to create interactive web pages and user interfaces. It is one of the three languages that all web developers must learn, along with HTML and CSS. JavaScript is easy to learn and is used in every industry to create all types of applications.
+
+JavaScript is an essential tool for web developers to create dynamic and interactive web pages and applications.
+
+Q5.What is JavaScript? And also Explain the histroy of JavaScript?
+
+Ans. JavaScript is a scripting language that enables you to creat dynamically updating content, controls media, animate images and pretty much everything else.
+
+Brendan Eich first developed JavaScript, a computer language, in about ten days in May 1995. The language, formerly known as Mocha, later modified to LiveScript, and is now known simply as JavaScript, was created to be used on the client-side of websites, enabling the addition of dynamic and interactive components to static HTML texts.
+
+Q6. What is DOM in js? 
+
+Ans. DOM stands for Document Object Model. It's the interface between JavaScript and the web browser.
+
+With the help of the DOM, you can write JavaScript to create, modify, and delete HTML elements, set styles, classes and attributes, and listen and respond to events.
+
+The DOM tree is generated from an HTML document, which you can then interact with. The DOM is a very complex API which has methods and properties to interact with the DOM tree.
+
+
+
+ 
